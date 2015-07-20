@@ -1,6 +1,8 @@
 ChefSpec Problems with Jenkins Cookbook
 =======================================
 
+For a full description of the problem, refer to [http://stackoverflow.com/questions/31490187/chef-node-attribute-is-not-overridden-in-chefspec](http://stackoverflow.com/questions/31490187/chef-node-attribute-is-not-overridden-in-chefspec) and [https://github.com/sethvargo/chefspec/issues/610](https://github.com/sethvargo/chefspec/issues/610)
+
 How to reproduce "the problem":
 
     cd app_jenkins_master
